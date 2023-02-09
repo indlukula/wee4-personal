@@ -1,0 +1,26 @@
+{
+    "contact":{
+      "firstName": "Sifundo",
+      "lastName": "Maphosa",
+      "email": "sifundo@maphosa.com",
+      "favoriteColor": "red",
+      "birthday": "13/07/75"
+  
+    },
+     "contact2": {
+      "firstName": "John",
+      "lastName": "Legend",
+      "email": "john@legend.com",
+      "favoriteColor": "green",
+      "birthday": "20/03/86"
+  
+    },
+     "contact3": {
+      "firstName": "Mariah",
+      "lastName": "Carey",
+      "email": "mariah@carey.com",
+      "favoriteColor": "pink",
+      "birthday": "09/09/80"
+    }
+    
+}
